@@ -105,15 +105,6 @@ Switch language by editing `Config.Locale`.
 
 ---
 
-## 🧪 Testing checklist
-- [ ] Resource starts with `ensure` and shows no console errors.  
-- [ ] Enter and exit the zone in a vehicle; ensure average speed calculation is correct.  
-- [ ] Fines are applied correctly (check fixed and dynamic modes).  
-- [ ] Flash effect triggers when enabled.  
-- [ ] Locales show the expected language strings.
-
----
-
 ## 💡 Extensions & Ideas
 You can enhance Smart Speed Trap by adding:
 - Discord logging (webhook) for admin logs  
